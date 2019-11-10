@@ -1,0 +1,15 @@
+1. Program to print text
+2. Program To Read Two Numbers And Print The Sum Of Given Two Numbers.
+3. Program To Accept Student Roll No, Marks in 3 Subjects and Calculate Total, Average and Print it.
+4. Program To Read Three Numbers And Print The Biggest Of Given Three Numbers.
+5. Program To Read A Number And Find Whether The Given Number Is Even Or Odd.
+6. Program to accept a year and check whether the given year IS leap year or not.
+7. Program to print Individual Digits.
+8. Program to accept a three digit number and print the sum of individual digits.
+9. Program to accept a number and check the given number is Armstrong or not.
+10. Program to print ODD numbers from 1 to 10.
+11. Program to print natural numbers from 1 to 10 in Reverse.
+12. Program to print sum of the natural numbers from 1 to 10.
+13. Program to accept a number and print mathematical table of the given no.
+14. Program to print 1 to 10 mathematical tables .
+15. Program to print fibonacci series.
